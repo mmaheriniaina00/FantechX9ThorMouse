@@ -171,7 +171,7 @@ To run without sudo, create a udev rule for USB access:
 
 ## Related Projects
 
-This script is based on the [Fantech X9 Thor driver](link-to-original-driver) which provides a full GUI for configuring DPI, colors, and LED modes.
+This script is based on the [Fantech X9 Thor driver](https://github.com/GuessWhatBBQ/FantechX9ThorDriver) which provides a full GUI for configuring DPI, colors, and LED modes.
 
 ## License
 
